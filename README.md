@@ -2,6 +2,8 @@ ds-project-template
 ==============================
 
 Project structure skeleton for data science projects.
+The project structure is based upon the Cookiecutter Data Science project skeleton.
+For an detailed overview, look [here](https://drivendata.github.io/cookiecutter-data-science/).
 
 Project Organization
 ------------
